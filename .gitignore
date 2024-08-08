@@ -1,0 +1,11 @@
+.vs/
+.vsconfig
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Backstabber.sln
+Library/
+Logs/
+Packages/
+ProjectSettings/
+UserSettings/
+obj/
